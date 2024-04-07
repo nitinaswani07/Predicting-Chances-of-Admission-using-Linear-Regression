@@ -1,1 +1,1 @@
-# Predicting-Chances-of-Admission-using-Linear-Regression
+# Predicting Graduate Admission Chances Using Linear Regression
